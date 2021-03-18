@@ -1,5 +1,3 @@
-CODE: SELECT ALL
-
 #EXTM3U size="big"
 #EXTINF:-1, REDE VIDA
 http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
